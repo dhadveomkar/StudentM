@@ -70,11 +70,3 @@ Update Student Data:
 Delete Student Data:
 ![AddStudent](deletestudent.png)
 
-
-
-
-
-
-
-
-![Alt text](addstudent.png)
