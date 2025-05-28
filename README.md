@@ -55,4 +55,26 @@ DELETE request
 
 Screenshots:
 
+Add Student:
+![AddStudent](addstudent.png)
+
+Show All Students Data:
+![AddStudent](getallstudents.png)
+
+Show particular any one of the id data:
+![AddStudent](showstudent.png)
+
+Update Student Data:
+![AddStudent](updatestudent.png)
+
+Delete Student Data:
+![AddStudent](deletestudent.png)
+
+
+
+
+
+
+
+
 ![Alt text](addstudent.png)
