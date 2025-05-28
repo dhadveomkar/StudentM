@@ -51,3 +51,8 @@ GET all students
 PUT update
 
 DELETE request
+
+
+Screenshots:
+
+![Alt text](addstudent.png)
